@@ -4,8 +4,9 @@ A basic PHP tool to add, edit, delete, and list simple entries (with name and co
 ---
 
 This is a basic web application for managing small pieces of information related to websites, potentially useful for tracking backlinks, login details, or content snippets. It's built with PHP for server-side logic and uses a JSON file for data storage. The frontend uses HTML, Tailwind CSS (via CDN), and Font Awesome (via CDN).
-
-![Screenshot Home](screenshot/Screenshot_2025-05-23-09-34-32-233_com.android.chrome-edit.jpg) 
+## Screenshot 
+![Screenshot](screenshot/Screenshot_2025-05-23-10-51-44-670_com.android.chrome-edit.jpg) 
+![Screenshot](screenshot/Screenshot_2025-05-23-10-52-18-271_com.android.chrome-edit.jpg) 
 Features:
 - Add new website entries (Name and Content).
 - Edit existing website entries.
