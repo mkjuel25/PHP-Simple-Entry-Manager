@@ -94,7 +94,7 @@ $websites = file_exists($data_file) ? json_decode(file_get_contents($data_file),
                            class="w-full p-2 border rounded text-sm sm:text-base">
                 </div>
                 <div>
-                    <label class="block mb-2 text-sm sm:text-base">Content</label>
+                    <label class="block mb-2 text-sm sm:text-base">Content/Notes</label>
                     <textarea id="websiteContent" rows="8" 
                               class="w-full p-2 border rounded text-sm sm:text-base"></textarea>
                 </div>
